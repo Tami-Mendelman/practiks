@@ -1,2 +1,3 @@
 # practiks
-this is my first project
+int x=8
+

@@ -1,2 +1,4 @@
 tami
 this is my first project
+int x=8
+int y=10
